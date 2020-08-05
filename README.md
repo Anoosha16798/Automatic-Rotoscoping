@@ -9,11 +9,11 @@
          Download Wing/PyCharm/Sublime or any Python IDE
          
 * **Step 2 - Creat a python environment and installing libraries**
- * If you are using anaconda create vitual environment via anaconda prompt
- * Install torchvision cmd--- pip install torchvision
-  * Install torchvision cmd--- pip install pytorch
- * Above two liberaries are machine learning liberaries used for applications such as computer vision and natural language processing.
-                  * Install pillow cmd--- pip install pillow
+  * If you are using anaconda create vitual environment via anaconda prompt
+  * Install torchvision cmd--- pip install torchvision
+   * Install torchvision cmd--- pip install pytorch
+   * Above two liberaries are machine learning liberaries used for applications such as computer vision and natural language processing.
+   * Install pillow cmd--- pip install pillow
          * Pillow is a Python Imaging Library (PIL), which adds support for opening, manipulating, and saving images.
          * Now check for tkinter and numpy liberaries in the editor
          * import tkinter as tk
