@@ -1,6 +1,6 @@
-#Automatic Rotoscoping in Python
+#Automatic Rotoscoping in Python#
 
-**Rotoscoping for VFX is used to create a matte or mask for an element, so it can be extracted out to place on a different background, masked out so colors can be changed, or any other set of reasons. It is more widely used than many realize.
+**Rotoscoping for VFX is used to create a matte or mask for an element, so it can be extracted out to place on a different background, masked out so colors can be changed, or any other set of reasons. It is more widely used than many realize.**
 
 Here are few steps you need to follow:
 
