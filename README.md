@@ -21,10 +21,9 @@ Step 2 - Creat a python environment and installing libraries
          # if tkinter is not present install it via pip install tkinter
         
 Step 3 - Now clone this repository to your local file.
-Step 4 - Findmatte.py is the trained model and Rotomaker_v001.py is the main file.
-Step 5 - Run Rotomaker_v001.py file in the terminal via python (pass the path of Rotomaker_v001.py file)
-Step 6 - You will get GUI asking to choose a folder(which consists of images), choose any folder, set the resolution (256 is prefered)
-Step 7 - you can find matte files in your folder.
+Step 4 - Findmatte.py is the trained model and Rotomaker_v001.py is the main file. Run Rotomaker_v001.py file in the terminal via python (pass the path of Rotomaker_v001.py file)
+Step 5 - You will get GUI asking to choose a folder(which consists of images), choose any folder, set the resolution (256 is prefered)
+Step 6 - you can find matte files in your folder.
 
 Thank you.
         
