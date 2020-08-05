@@ -14,11 +14,11 @@
    * Install torchvision cmd--- pip install pytorch
    * Above two liberaries are machine learning liberaries used for applications such as computer vision and natural language processing.
    * Install pillow cmd--- pip install pillow
-         * Pillow is a Python Imaging Library (PIL), which adds support for opening, manipulating, and saving images.
-         * Now check for tkinter and numpy liberaries in the editor
-         * import tkinter as tk
-         * import numpy 
-         * if tkinter is not present install it via pip install tkinter
+   * Pillow is a Python Imaging Library (PIL), which adds support for opening, manipulating, and saving images.
+   * Now check for tkinter and numpy liberaries in the editor
+   * import tkinter as tk
+   * import numpy 
+   * if tkinter is not present install it via pip install tkinter
         
 * **Step 3 - Now clone this repository to your local file.**
 * **Step 4 - Findmatte.py is the trained model and Rotomaker_v001.py is the main file. Run Rotomaker_v001.py file in the terminal via python (pass the path of Rotomaker_v001.py file)**
